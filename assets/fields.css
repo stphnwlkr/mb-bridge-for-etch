@@ -1,0 +1,11 @@
+.mbfe-fields { max-width: 1080px; margin: 0 auto; padding: 32px; }
+.mbfe-fields-heading { margin-bottom: 28px; }
+.mbfe-eyebrow { color: #777; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; }
+.mbfe-fields-heading h1 { margin: 6px 0 10px; padding: 0; font-size: 23px; }
+.mbfe-fields-heading p { color: #777; }
+.mbfe-field-group { border-radius: 8px; margin-bottom: 20px; }
+.mbfe-field-group > h2 { padding: 16px 20px; margin: 0; border-bottom: 1px solid #ddd; font-size: 14px; }
+.mbfe-field-group .inside { padding: 20px; margin: 0; }
+.mbfe-save-row { display: flex; align-items: center; gap: 14px; padding: 12px 0; }
+.mbfe-save-row span { color: #777; font-size: 12px; }
+.mbfe-empty { border: 1px solid #ddd; border-radius: 8px; padding: 36px; text-align: center; }

@@ -1,0 +1,10 @@
+/* Embedded layout only. Meta Box and WordPress own all visual styling. */
+html.mbfe-embedded { margin-top: 0 !important; }
+.mbfe-embedded #adminmenumain, .mbfe-embedded #wpadminbar, .mbfe-embedded #wpfooter, .mbfe-embedded #screen-meta-links { display: none !important; }
+.mbfe-embedded #wpcontent, .mbfe-embedded #wpfooter { margin-left: 0 !important; padding-left: 0; }
+.mbfe-embedded #wpbody { padding-top: 0 !important; }
+.mbfe-embedded #wpbody-content { padding-bottom: 0; float: none; }
+.mbfe-embedded .mb { --left: 0px; top: 0; left: 0 !important; }
+
+/* Keep native screens comfortably inset without changing their controls. */
+.mbfe-embedded #wpbody-content > .wrap { margin-left: 16px; margin-right: 16px; }

@@ -1,0 +1,10 @@
+README.md
+tests/
+dist/
+scripts/
+release/
+.pressshipignore
+*.zip
+*.log
+*.jpg
+*.png
